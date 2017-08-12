@@ -4,6 +4,7 @@
 
 /* Importing layouts */
 @import url("layouts/homepage.css");
+@import url("layouts/projects.css");
 
 body {
   margin: 0;
